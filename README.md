@@ -2,4 +2,4 @@
 
 #links#
 
-[Markdown Guide Syntax ] (https://www.markdownguide.org/basic-syntax/)
+[Markdown Guide Syntax](https://www.markdownguide.org/basic-syntax/)
